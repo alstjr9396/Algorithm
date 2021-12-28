@@ -18,7 +18,7 @@
   - [x] [solution](https://programmers.co.kr/learn/courses/30/lessons/42576) (완주하지 못한 선수)
   - [x] [solution2](https://programmers.co.kr/learn/courses/30/lessons/42577) (전화번호 목록)
   - [x] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42578) (위장)
-  - [ ] [solution4](https://programmers.co.kr/learn/courses/30/lessons/42579) (베스트앨범)
+  - [x] [solution4](https://programmers.co.kr/learn/courses/30/lessons/42579) (베스트앨범)
 
   - `스택/큐`
   - [ ] [solution](https://programmers.co.kr/learn/courses/30/lessons/42586) (기능개발)
