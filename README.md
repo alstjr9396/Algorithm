@@ -24,7 +24,7 @@
   - [x] [solution](https://programmers.co.kr/learn/courses/30/lessons/42586) (기능개발)
   - [x] [solution2](https://programmers.co.kr/learn/courses/30/lessons/42587) (프린터)
   - [x] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42583) (다리를 지나는 트럭)
-  - [ ] [solution4](https://programmers.co.kr/learn/courses/30/lessons/42584) (주식가격)
+  - [x] [solution4](https://programmers.co.kr/learn/courses/30/lessons/42584) (주식가격)
 
   - `힙`
   - [ ] [solution](https://programmers.co.kr/learn/courses/30/lessons/42626) (더 맵게)
