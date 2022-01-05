@@ -27,7 +27,7 @@
   - [x] [solution4](https://programmers.co.kr/learn/courses/30/lessons/42584) (주식가격)
 
   - `힙`
-  - [ ] [solution](https://programmers.co.kr/learn/courses/30/lessons/42626) (더 맵게)
+  - [x] [solution](https://programmers.co.kr/learn/courses/30/lessons/42626) (더 맵게)
   - [ ] [solution2](https://programmers.co.kr/learn/courses/30/lessons/42627) (디스트 컨트롤러)
   - [ ] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42628) (이중우선순위큐)
   
