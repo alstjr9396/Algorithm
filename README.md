@@ -32,7 +32,7 @@
   - [x] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42628) (이중우선순위큐)
   
   - `정렬`
-  - [ ] [solution](https://programmers.co.kr/learn/courses/30/lessons/42748) (K번째수)
+  - [x] [solution](https://programmers.co.kr/learn/courses/30/lessons/42748) (K번째수)
   - [ ] [solution2](https://programmers.co.kr/learn/courses/30/lessons/42746) (가장 큰 수)
   - [ ] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42747) (H-Index)
 
