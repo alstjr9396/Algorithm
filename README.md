@@ -29,7 +29,7 @@
   - `힙`
   - [x] [solution](https://programmers.co.kr/learn/courses/30/lessons/42626) (더 맵게)
   - [x] [solution2](https://programmers.co.kr/learn/courses/30/lessons/42627) (디스트 컨트롤러)
-  - [ ] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42628) (이중우선순위큐)
+  - [x] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42628) (이중우선순위큐)
   
   - `정렬`
   - [ ] [solution](https://programmers.co.kr/learn/courses/30/lessons/42748) (K번째수)
