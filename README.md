@@ -33,7 +33,7 @@
   
   - `정렬`
   - [x] [solution](https://programmers.co.kr/learn/courses/30/lessons/42748) (K번째수)
-  - [ ] [solution2](https://programmers.co.kr/learn/courses/30/lessons/42746) (가장 큰 수)
+  - [x] [solution2](https://programmers.co.kr/learn/courses/30/lessons/42746) (가장 큰 수)
   - [ ] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42747) (H-Index)
 
   - `완전탐색`
