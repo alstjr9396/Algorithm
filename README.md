@@ -37,7 +37,7 @@
   - [x] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42747) (H-Index)
 
   - `완전탐색`
-  - [ ] [solution](https://programmers.co.kr/learn/courses/30/lessons/42840) (모의고사)
+  - [x] [solution](https://programmers.co.kr/learn/courses/30/lessons/42840) (모의고사)
   - [ ] [solution2](https://programmers.co.kr/learn/courses/30/lessons/42839) (소수 찾기)
   - [ ] [solution3](https://programmers.co.kr/learn/courses/30/lessons/42842) (카펫)
 
