@@ -44,7 +44,7 @@
   - `깊이/너비 우선 탐색(DFS/BFS)`
   - [x] [solution](https://programmers.co.kr/learn/courses/30/lessons/43165) (타겟 넘버)
   - [x] [solution2](https://programmers.co.kr/learn/courses/30/lessons/43162) (네트워크)
-  - [ ] [solution3](https://programmers.co.kr/learn/courses/30/lessons/43163) (단어 변환)
+  - [x] [solution3](https://programmers.co.kr/learn/courses/30/lessons/43163) (단어 변환)
   - [ ] [solution4](https://programmers.co.kr/learn/courses/30/lessons/43164) (여행 경로)
 
   - `동적계획법`
