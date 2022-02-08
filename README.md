@@ -61,3 +61,4 @@
 - 백준
   - `구현 및 시물레이션`
   - [x] [10798](https://www.acmicpc.net/problem/10798) (세로읽기)
+  - [x] [2490](https://www.acmicpc.net/problem/2490) (윷놀이)
