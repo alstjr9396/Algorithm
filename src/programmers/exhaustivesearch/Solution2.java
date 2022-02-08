@@ -1,6 +1,5 @@
-package exhaustivesearch;
+package programmers.exhaustivesearch;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 

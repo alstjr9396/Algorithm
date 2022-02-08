@@ -1,4 +1,4 @@
-package dfsandbfs;
+package programmers.dfsandbfs;
 
 public class Solution2 {
     int[] networks;

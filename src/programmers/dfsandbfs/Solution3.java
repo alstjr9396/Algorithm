@@ -1,4 +1,4 @@
-package dfsandbfs;
+package programmers.dfsandbfs;
 
 public class Solution3 {
     int answer = 0;

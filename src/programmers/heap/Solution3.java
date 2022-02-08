@@ -1,4 +1,4 @@
-package heap;
+package programmers.heap;
 
 import java.util.*;
 
@@ -31,10 +31,10 @@ public class Solution3 {
 
   public int[] bestSolution(String[] operations) {
     /*
-      - min heap
+      - min programmers.heap
       Queue<Integer> numQueue = new PriorityQueue<>();
 
-      - max heap
+      - max programmers.heap
       Queue<Integer> maxNumQueue = new PriorityQueue<>(Collections.reverseOrder());
      */
     return null;

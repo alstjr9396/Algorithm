@@ -1,4 +1,4 @@
-package hash;
+package programmers.hash;
 
 import java.util.ArrayList;
 import java.util.Collections;

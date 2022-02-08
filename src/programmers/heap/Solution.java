@@ -1,4 +1,4 @@
-package heap;
+package programmers.heap;
 
 import java.util.PriorityQueue;
 import java.util.Queue;
@@ -7,7 +7,7 @@ public class Solution {
 
   public static void main(String[] args) {
     /*
-      PriorityQueue : min heap
+      PriorityQueue : min programmers.heap
      */
   }
 

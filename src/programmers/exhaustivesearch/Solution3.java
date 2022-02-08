@@ -1,4 +1,4 @@
-package exhaustivesearch;
+package programmers.exhaustivesearch;
 
 public class Solution3 {
     public int[] mySolution(int brown, int yellow) {

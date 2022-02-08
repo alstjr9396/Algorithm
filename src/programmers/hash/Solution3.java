@@ -1,4 +1,4 @@
-package hash;
+package programmers.hash;
 
 import static java.util.stream.Collectors.counting;
 import static java.util.stream.Collectors.groupingBy;
