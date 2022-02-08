@@ -9,11 +9,11 @@
   - 한 줄 입력이 여러번 들어오는 경우 split보다 StringTokenizer
   - 여러 번 출력해야 하는 경우 StringBuilder를 사용해 한번에 출력
   - Array보다 ArrayList
-  - ArrayList를 정렬하기 위해 Collections.sort() 사용
+  - ArrayList를 정렬하기 위해 Collections.programmers.sort() 사용
   - 배열을 초기화하기 위해서 java.util.Arrays의 Arrays.fill(array, defaultValue)를 사용
   - [출처](https://mangkyu.tistory.com/181)
 
-- 문제
+- 프로그래머스
   - `해시`
   - [x] [solution](https://programmers.co.kr/learn/courses/30/lessons/42576) (완주하지 못한 선수)
   - [x] [solution2](https://programmers.co.kr/learn/courses/30/lessons/42577) (전화번호 목록)
@@ -57,3 +57,7 @@
   - [ ] [solution](https://programmers.co.kr/learn/courses/30/lessons/43238) (입국심사)
   - [ ] [solution2](https://programmers.co.kr/learn/courses/30/lessons/43236) (징검다리)
 ---
+
+- 백준
+  - `구현 및 시물레이션`
+  - [x] [10798](https://www.acmicpc.net/problem/10798) (세로읽기)
