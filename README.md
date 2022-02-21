@@ -62,3 +62,4 @@
   - `구현 및 시물레이션`
   - [x] [10798](https://www.acmicpc.net/problem/10798) (세로읽기)
   - [x] [2490](https://www.acmicpc.net/problem/2490) (윷놀이)
+  - [x] [2884](https://www.acmicpc.net/problem/2884) (알람 시계)
