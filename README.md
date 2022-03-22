@@ -64,3 +64,4 @@
   - [x] [2490](https://www.acmicpc.net/problem/2490) (윷놀이)
   - [x] [2884](https://www.acmicpc.net/problem/2884) (알람 시계)
   - [x] [14500](https://www.acmicpc.net/problem/14500) (테트로미노)
+  - [x] [14890](https://www.acmicpc.net/problem/14890) (경사로)
