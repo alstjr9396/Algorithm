@@ -66,3 +66,4 @@
   - [x] [14500](https://www.acmicpc.net/problem/14500) (테트로미노)
   - [x] [14890](https://www.acmicpc.net/problem/14890) (경사로)
   - [x] [17837](https://www.acmicpc.net/problem/17837) (새로운 게임2)
+  - [x] [17144](https://www.acmicpc.net/problem/17144) (미세먼지 안녕!)
