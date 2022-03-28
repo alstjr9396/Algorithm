@@ -11,7 +11,8 @@
   - Array보다 ArrayList
   - ArrayList를 정렬하기 위해 Collections.programmers.sort() 사용
   - 배열을 초기화하기 위해서 java.util.Arrays의 Arrays.fill(array, defaultValue)를 사용
-  - [출처](https://mangkyu.tistory.com/181)
+    - [출처](
+    - )
 
 - 프로그래머스
   - `해시`
@@ -67,3 +68,4 @@
   - [x] [14890](https://www.acmicpc.net/problem/14890) (경사로)
   - [x] [17837](https://www.acmicpc.net/problem/17837) (새로운 게임2)
   - [x] [17144](https://www.acmicpc.net/problem/17144) (미세먼지 안녕!)
+  - [x] [14891](https://www.acmicpc.net/problem/14891) (톱니바퀴)
