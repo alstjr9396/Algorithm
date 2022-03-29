@@ -11,8 +11,7 @@
   - Array보다 ArrayList
   - ArrayList를 정렬하기 위해 Collections.programmers.sort() 사용
   - 배열을 초기화하기 위해서 java.util.Arrays의 Arrays.fill(array, defaultValue)를 사용
-    - [출처](
-    - )
+    - [출처](https://mangkyu.tistory.com/181)
 
 - 프로그래머스
   - `해시`
@@ -61,11 +60,12 @@
 
 - 백준
   - `구현 및 시물레이션`
-  - [x] [10798](https://www.acmicpc.net/problem/10798) (세로읽기)
-  - [x] [2490](https://www.acmicpc.net/problem/2490) (윷놀이)
-  - [x] [2884](https://www.acmicpc.net/problem/2884) (알람 시계)
-  - [x] [14500](https://www.acmicpc.net/problem/14500) (테트로미노)
-  - [x] [14890](https://www.acmicpc.net/problem/14890) (경사로)
-  - [x] [17837](https://www.acmicpc.net/problem/17837) (새로운 게임2)
-  - [x] [17144](https://www.acmicpc.net/problem/17144) (미세먼지 안녕!)
-  - [x] [14891](https://www.acmicpc.net/problem/14891) (톱니바퀴)
+  - [x] [Quiz10798](https://www.acmicpc.net/problem/10798) (세로읽기)
+  - [x] [Quiz2490](https://www.acmicpc.net/problem/2490) (윷놀이)
+  - [x] [Quiz2884](https://www.acmicpc.net/problem/2884) (알람 시계)
+  - [x] [Quiz14500](https://www.acmicpc.net/problem/14500) (테트로미노)
+  - [x] [Quiz14890](https://www.acmicpc.net/problem/14890) (경사로)
+  - [x] [Quiz17837](https://www.acmicpc.net/problem/17837) (새로운 게임2)
+  - [x] [Quiz17144](https://www.acmicpc.net/problem/17144) (미세먼지 안녕!)
+  - [x] [Quiz14891](https://www.acmicpc.net/problem/14891) (톱니바퀴)
+  - [x] [Quiz15686](https://www.acmicpc.net/problem/15686) (치킨 배달)
