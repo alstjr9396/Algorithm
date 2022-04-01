@@ -69,3 +69,4 @@
   - [x] [Quiz17144](https://www.acmicpc.net/problem/17144) (미세먼지 안녕!)
   - [x] [Quiz14891](https://www.acmicpc.net/problem/14891) (톱니바퀴)
   - [x] [Quiz15686](https://www.acmicpc.net/problem/15686) (치킨 배달)
+  - [x] [Quiz14503](https://www.acmicpc.net/problem/14503) (로봇 청소기)
