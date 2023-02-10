@@ -70,3 +70,6 @@
   - [x] [Quiz14891](https://www.acmicpc.net/problem/14891) (톱니바퀴)
   - [x] [Quiz15686](https://www.acmicpc.net/problem/15686) (치킨 배달)
   - [x] [Quiz14503](https://www.acmicpc.net/problem/14503) (로봇 청소기)
+
+  - `(문제집)삼성 SW 역량 테스트 기출 문제`
+  - [x] [Quiz14888](https://www.acmicpc.net/problem/14888) (연산자 끼워넣기)
