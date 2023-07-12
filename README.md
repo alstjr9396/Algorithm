@@ -73,3 +73,6 @@
 
   - `(문제집)삼성 SW 역량 테스트 기출 문제`
   - [x] [Quiz14888](https://www.acmicpc.net/problem/14888) (연산자 끼워넣기)
+
+  - `탐욕 알고리즘`
+  - [x] [Quiz1700](https://www.acmicpc.net/problem/1700) (멀티탭 스케줄링)
