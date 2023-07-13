@@ -77,3 +77,6 @@
   - `탐욕 알고리즘`
   - [x] [Quiz1700](https://www.acmicpc.net/problem/1700) (멀티탭 스케줄링)
   - [x] [Quiz18185](https://www.acmicpc.net/problem/18185) (라면 사기)
+
+  - `완전 탐색`
+  - [x] [Quiz1062](https://www.acmicpc.net/problem/1062) (가르침)
