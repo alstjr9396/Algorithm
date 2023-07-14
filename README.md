@@ -80,3 +80,6 @@
 
   - `완전 탐색`
   - [x] [Quiz1062](https://www.acmicpc.net/problem/1062) (가르침)
+
+  - `다익스트라 알고리즘`
+  - [x] [Quiz1916](https://www.acmicpc.net/problem/1916) (최소비용 구하기)
