@@ -88,3 +88,4 @@
   - [x] [Quiz1260](https://www.acmicpc.net/problem/1260) (DFS와 BFS)
   - [x] [Quiz1303](https://www.acmicpc.net/problem/1303) (전쟁 - 전투)
   - [x] [Quiz1743](https://www.acmicpc.net/problem/1743) (음식물 피하기)
+  - [x] [Quiz2178](https://www.acmicpc.net/problem/2178) (미로 탐색)
