@@ -90,3 +90,4 @@
   - [x] [Quiz1743](https://www.acmicpc.net/problem/1743) (음식물 피하기)
   - [x] [Quiz2178](https://www.acmicpc.net/problem/2178) (미로 탐색)
   - [x] [Quiz2606](https://www.acmicpc.net/problem/2606) (바이러스)
+  - [x] [Quiz12851](https://www.acmicpc.net/problem/12851) (숨바꼭질 2)
