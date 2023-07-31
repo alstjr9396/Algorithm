@@ -93,3 +93,4 @@
   - [x] [Quiz12851](https://www.acmicpc.net/problem/12851) (숨바꼭질 2)
   - [x] [Quiz14226](https://www.acmicpc.net/problem/14226) (이모티콘)
   - [x] [Quiz16930](https://www.acmicpc.net/problem/16930) (달리기)
+  - [x] [Quiz16953](https://www.acmicpc.net/problem/16953) (A → B)
