@@ -94,3 +94,4 @@
   - [x] [Quiz14226](https://www.acmicpc.net/problem/14226) (이모티콘)
   - [x] [Quiz16930](https://www.acmicpc.net/problem/16930) (달리기)
   - [x] [Quiz16953](https://www.acmicpc.net/problem/16953) (A → B)
+  - [x] [Quiz17086](https://www.acmicpc.net/problem/17086) (아기 상어 2)
