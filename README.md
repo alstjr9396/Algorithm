@@ -59,7 +59,8 @@
 ---
 
 - 백준
-  - `구현 및 시물레이션`
+
+  `구현 및 시물레이션`
   - [x] [Quiz10798](https://www.acmicpc.net/problem/10798) (세로읽기)
   - [x] [Quiz2490](https://www.acmicpc.net/problem/2490) (윷놀이)
   - [x] [Quiz2884](https://www.acmicpc.net/problem/2884) (알람 시계)
@@ -71,20 +72,20 @@
   - [x] [Quiz15686](https://www.acmicpc.net/problem/15686) (치킨 배달)
   - [x] [Quiz14503](https://www.acmicpc.net/problem/14503) (로봇 청소기)
 
-  - `(문제집)삼성 SW 역량 테스트 기출 문제`
+  `(문제집)삼성 SW 역량 테스트 기출 문제`
   - [x] [Quiz14888](https://www.acmicpc.net/problem/14888) (연산자 끼워넣기)
 
-  - `탐욕 알고리즘`
+  `탐욕 알고리즘`
   - [x] [Quiz1700](https://www.acmicpc.net/problem/1700) (멀티탭 스케줄링)
   - [x] [Quiz18185](https://www.acmicpc.net/problem/18185) (라면 사기)
 
-  - `완전 탐색`
+  `완전 탐색`
   - [x] [Quiz1062](https://www.acmicpc.net/problem/1062) (가르침)
 
-  - `다익스트라 알고리즘`
+  `다익스트라 알고리즘`
   - [x] [Quiz1916](https://www.acmicpc.net/problem/1916) (최소비용 구하기)
 
-  - `깊이 우선 탐색과 너비 우선 탐색`
+  `깊이 우선 탐색과 너비 우선 탐색`
   - [x] [Quiz1260](https://www.acmicpc.net/problem/1260) (DFS와 BFS)
   - [x] [Quiz1303](https://www.acmicpc.net/problem/1303) (전쟁 - 전투)
   - [x] [Quiz1743](https://www.acmicpc.net/problem/1743) (음식물 피하기)
@@ -95,3 +96,8 @@
   - [x] [Quiz16930](https://www.acmicpc.net/problem/16930) (달리기)
   - [x] [Quiz16953](https://www.acmicpc.net/problem/16953) (A → B)
   - [x] [Quiz17086](https://www.acmicpc.net/problem/17086) (아기 상어 2)
+
+
+- Softeer
+
+  - [x] [Quiz001](https://softeer.ai/practice/info.do?idx=1&eid=407) (바이러스)
