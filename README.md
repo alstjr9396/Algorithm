@@ -97,6 +97,9 @@
   - [x] [Quiz16953](https://www.acmicpc.net/problem/16953) (A → B)
   - [x] [Quiz17086](https://www.acmicpc.net/problem/17086) (아기 상어 2)
 
+  `kruskal`
+  - [x] [Quiz1197](https://www.acmicpc.net/problem/1197) (최소 스패닝 트리)
+
 
 - Softeer
 
