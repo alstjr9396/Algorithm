@@ -100,6 +100,9 @@
   `kruskal`
   - [x] [Quiz1197](https://www.acmicpc.net/problem/1197) (최소 스패닝 트리)
 
+  `kmp`
+  - [x] [Quiz16916](https://www.acmicpc.net/problem/16916) (부분 문자열) 
+
 
 - Softeer
 
