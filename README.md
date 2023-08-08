@@ -103,6 +103,9 @@
   `kmp`
   - [x] [Quiz16916](https://www.acmicpc.net/problem/16916) (부분 문자열) 
 
+  `topologicalsort`
+  - [x] [Quiz2252](https://www.acmicpc.net/problem/2252) (줄 세우기)
+
 
 - Softeer
 
