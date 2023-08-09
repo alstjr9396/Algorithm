@@ -106,6 +106,9 @@
   `topologicalsort`
   - [x] [Quiz2252](https://www.acmicpc.net/problem/2252) (줄 세우기)
 
+  `dp`
+  - [x] [Quiz1495](https://www.acmicpc.net/problem/1495) (기타리스트)
+
 
 - Softeer
 
