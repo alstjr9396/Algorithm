@@ -110,6 +110,7 @@
   - [x] [Quiz1495](https://www.acmicpc.net/problem/1495) (기타리스트)
   - [x] [Quiz1890](https://www.acmicpc.net/problem/1890) (점프)
   - [x] [Quiz1890](https://www.acmicpc.net/problem/12026) (BOJ 거리)
+  - [x] [Quiz12865](https://www.acmicpc.net/problem/12865) (평범한 배낭)
 
 
 - Softeer
