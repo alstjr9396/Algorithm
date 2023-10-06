@@ -113,6 +113,7 @@
   - [x] [Quiz12865](https://www.acmicpc.net/problem/12865) (평범한 배낭)
   - [x] [Quiz5557](https://www.acmicpc.net/problem/5557) (1학년)
   - [x] [Quiz11058](https://www.acmicpc.net/problem/11058) (크리보드)
+  - [x] [Quiz12869](https://www.acmicpc.net/problem/12869) (뮤탈리스크)
 
 
 - Softeer
