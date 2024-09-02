@@ -115,7 +115,15 @@
   - [x] [Quiz11058](https://www.acmicpc.net/problem/11058) (크리보드)
   - [x] [Quiz12869](https://www.acmicpc.net/problem/12869) (뮤탈리스크)
 
+---
 
 - Softeer
 
   - [x] [Quiz001](https://softeer.ai/practice/info.do?idx=1&eid=407) (바이러스)
+
+---
+
+- solved.ac
+  
+  - Gold 5
+    - [x] [Quiz1011](https://www.acmicpc.net/problem/1011) (Fly me to the Alpha Centauri)
