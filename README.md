@@ -128,3 +128,4 @@
   - Gold 5
     - [x] [Quiz1011](https://www.acmicpc.net/problem/1011) (Fly me to the Alpha Centauri)
     - [x] [Quiz1013](https://www.acmicpc.net/problem/1013) (Contact)
+    - [x] [Quiz1025](https://www.acmicpc.net/problem/1025) (제곱수 찾기)
