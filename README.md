@@ -131,3 +131,4 @@
     - [x] [Quiz1025](https://www.acmicpc.net/problem/1025) (제곱수 찾기)
     - [x] [Quiz7576](https://www.acmicpc.net/problem/7576) (토마토)
     - [x] [Quiz11729](https://www.acmicpc.net/problem/11729) (하노이 탑 이동 순서)
+    - [x] [Quiz2447](https://www.acmicpc.net/problem/2447) (별 찍기 - 10)
