@@ -134,3 +134,4 @@
     - [x] [Quiz2447](https://www.acmicpc.net/problem/2447) (별 찍기 - 10)
     - [x] [Quiz10026](https://www.acmicpc.net/problem/10026) (적록색약)
     - [x] [Quiz15686](https://www.acmicpc.net/problem/15686) (치킨 배달)
+    - [x] [Quiz9251](https://www.acmicpc.net/problem/9251) (LCS)
