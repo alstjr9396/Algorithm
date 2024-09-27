@@ -137,3 +137,4 @@
     - [x] [Quiz9251](https://www.acmicpc.net/problem/9251) (LCS)
     - [x] [Quiz1074](https://www.acmicpc.net/problem/1074) (Z)
     - [x] [Quiz1759](https://www.acmicpc.net/problem/1759) (암호 만들기)
+    - [x] [Quiz14503](https://www.acmicpc.net/problem/14503) (로봇 청소기)
